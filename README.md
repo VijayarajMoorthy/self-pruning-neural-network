@@ -63,16 +63,6 @@ Evaluation Metrics
 
 ---
 
- Results
-
-Lambda (λ)| Test Accuracy| Sparsity (%)
-0.0001| XX%| XX%
-0.001| XX%| XX%
-0.01| XX%| XX%
-
-«Shows trade-off between model performance and sparsity.»
-
----
 
 Visualization
 
