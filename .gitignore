@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+outputs/
+*.pt
+*.pth
+*.ckpt
+
+data/
+*.zip
+
+.env
